@@ -1,13 +1,12 @@
 .container {
     width: 80%;
-    padding: 20px;
     padding-left: 10px;
     margin: auto;
 }
 .first-image,.second-image ,.third-image ,.fourth-image {
     width: 200px;
     display: inline-block;
-    padding: 10px;
+    padding-left: 50px;
     margin: 10px;
 }
 .image {
